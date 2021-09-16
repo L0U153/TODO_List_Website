@@ -1,0 +1,62 @@
+#weather{
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #C70039;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	justify-content: center;
+	padding: 12px;
+	margin-bottom: 35px;
+}
+
+
+#todolist{
+	width: 420px;
+	margin-left: auto;
+	margin-right: auto;
+	/*padding: 10px;*/
+	background-color: white;
+	box-shadow: 3px 3px 2px 1px rgba(0, 0, 0, .2);
+}
+
+#todolist form{
+	padding-left: 15px;
+}
+
+#todolist h1{
+	text-align: left;
+	background-color: orange;
+	padding: 10px;
+	color: white;
+	font-size: 40px;
+}
+
+.item{
+	font-size: 20px;
+	padding: 5px;
+}
+
+.item:hover{
+	background-color: #D3D3D3;
+}
+
+.crossed{
+	color: 	#606060;
+	text-decoration: line-through;
+	font-style: italic;
+}
+
+html{
+	background-color: #FFF7C6;
+	font-family: 'Indie Flower', cursive;
+}
+
+.plus{
+	float: right;
+}
+
+ul{
+	list-style-type: none;
+}
